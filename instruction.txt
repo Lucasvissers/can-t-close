@@ -1,1 +1,3 @@
-install the exe file on a friens pc.
+set the vba file on a friens desktop.
+wait for them to open.
+they cant close the program!
