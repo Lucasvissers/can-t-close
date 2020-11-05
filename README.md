@@ -5,7 +5,7 @@ It will work on windows.
 Put the file on a freinds desktop and wait for them to open.  
 You can close it with taskmanager.  
 ## how is it made?
-its made with vba code.  
+its made with VBscrips code.  
 `do`  
   
   `msgbox("you got a virus")`  
