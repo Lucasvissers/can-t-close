@@ -1,3 +1,0 @@
-set the vba file on a friens desktop.
-wait for them to open.
-they cant close the program!
